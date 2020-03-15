@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string-array name="data">
+        <item>What are you doing</item>
+        <item>Are you fine</item>
+        <item>I miss you</item>
+        <item>welcome back my dear</item>
+        <item>I am your girl friend</item>
+    </string-array>
+</resources>
